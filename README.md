@@ -30,7 +30,7 @@ A fully responsive landing page built with HTML and Tailwind CSS. The project fo
 
 ## 🔗 Live Demo
 
-[View Live Site](loopsided-landing-page.vercel.app)
+[View Live Site](https://loopsided-landing-page.vercel.app)
 
 ## 📁 Repository
 
