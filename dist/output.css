@@ -680,8 +680,8 @@ video {
   height: 500px;
 }
 
-.h-\[600px\] {
-  height: 600px;
+.h-\[800px\] {
+  height: 800px;
 }
 
 .h-full {
@@ -866,8 +866,8 @@ video {
   background-color: rgb(250 204 21 / var(--tw-bg-opacity, 1));
 }
 
-.bg-\[url\(\/images\/image-hero\.jpg\)\] {
-  background-image: url(/images/image-hero.jpg);
+.bg-\[url\(\'\/images\/image-hero\.jpg\'\)\] {
+  background-image: url('/images/image-hero.jpg');
 }
 
 .bg-\[url\(\/src\/sunnyside-agency-landing-page-main\/sunnyside-agency-landing-page-main\/image-graphic-design\.jpg\)\] {
@@ -1407,8 +1407,8 @@ video {
     background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
   }
 
-  .lg\:bg-\[url\(\/images\/image-hero2\.jpg\)\] {
-    background-image: url(/images/image-hero2.jpg);
+  .lg\:bg-\[url\(\'\/images\/image-hero2\.jpg\'\)\] {
+    background-image: url('/images/image-hero2.jpg');
   }
 
   .lg\:bg-\[url\(\/src\/sunnyside-agency-landing-page-main\/sunnyside-agency-landing-page-main\/image-desktopphotography\.jpg\)\] {
